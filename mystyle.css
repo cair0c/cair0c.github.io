@@ -1,0 +1,13 @@
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    color: black;
+    margin-left: 300px;
+}
+
+p { 
+    font: message-box;
+    margin-left: 300px;
+}
